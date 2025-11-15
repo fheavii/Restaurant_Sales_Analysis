@@ -14,9 +14,9 @@ This project presents an interactive dashboard analyzing restaurant sales perfor
 - Data storytelling and visual communication  
 
 ## 📊 Data Sourcing
-Dataset source: [Restaurant Sales Dataset – Kaggle](https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data)
-The dataset contains individual sales records including attributes such as Order ID, Order Date, Product, Price, Quantity, Purchase Type, Payment Method, Manager, and City.  
-The data is used solely for learning, analysis, and dashboard development practice.
+<p align="justify">
+Dataset source: [Restaurant Sales Dataset – Kaggle](https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data). The dataset contains individual sales records including attributes such as Order ID, Order Date, Product, Price, Quantity, Purchase Type, Payment Method, Manager, and City. The data is used solely for learning, analysis, and dashboard development practice.
+</p>
 
 ## 🔍 Questions Answered
 1. What is the most preferred payment method?  
