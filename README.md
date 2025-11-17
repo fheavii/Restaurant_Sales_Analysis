@@ -24,11 +24,9 @@ Dataset source: [Restaurant Sales Dataset – Kaggle](https://www.kaggle.com/dat
 3. Which city generated the maximum revenue? Or which manager earned the highest revenue?  
 4. How does revenue change by date?  
 5. What is the overall average revenue?  
-6. What is the average revenue for the months of November and December?  
-7. What is the standard deviation of revenue and quantity?  
-8. What is the variance of revenue and quantity?  
-9. Is revenue increasing or decreasing over time?  
-10. What are the average quantity sold and the average revenue for each product?
+6. What is the average revenue for the months of November and December?    
+7. Is revenue increasing or decreasing over time?  
+8. What are the average quantity sold and the average revenue for each product?
 
 ## 📦 Main Features / Columns in the Dataset
 1. **Order ID** — Unique identifier for each sales order.  
